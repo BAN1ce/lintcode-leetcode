@@ -6,9 +6,11 @@
 
 
 sliding_window
+    ├── leet_1876.go // 长度为三且各字符不同的子字符串
     ├── leet_217.go // 存在重复元素
     ├── leet_219.go // 存在重复元素II
     ├── leet_3.go // 无重复字符的最长子串
+    └── leet_643.go // 子数组最大平均数 I
 
 
 tree
