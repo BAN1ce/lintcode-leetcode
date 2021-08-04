@@ -12,7 +12,8 @@
 doubly_linked_list 
     ├── leet_146.go // LRU 缓存机制
     └── leet_1472.go // 设计浏览器历史记录
-
+linked_list
+    ├── leet_83.go // 删除排序链表中的重复元素
 queue
     ├── leet_387.go // 字符串中的第一个唯一字符
     └── leet_jianzhi_50.go // 剑指 Offer 50. 第一个只出现一次的字符
