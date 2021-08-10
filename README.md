@@ -32,6 +32,9 @@ sliding_window
     ├── leet_718.go // 最长重复子数组
 stack
     └── leet_jianzhi_30.go // 包含min函数的栈
+string
+    ├── leet_offer_05.go // 剑指 Offer 05. 替换空格
+    └── leet_offer_58.go // 剑指 Offer 58 - II. 左旋转字符串
 
 tree
     ├── 94.go
