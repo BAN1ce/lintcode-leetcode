@@ -9,6 +9,12 @@
 ## 文件目录
 
 ```
+
+array
+    ├── leet_jian_53.go // 剑指 Offer 53 - I. 在排序数组中查找数字 I
+    ├── leet_jianzhi_03.go // 剑指 Offer 03. 数组中重复的数
+    └── leet_jianzhi_53_v2.go // 剑指 Offer 53 - II. 0～n-1中缺失的数字
+
 doubly_linked_list 
     ├── leet_146.go // LRU 缓存机制
     └── leet_1472.go // 设计浏览器历史记录
