@@ -13,6 +13,8 @@
 array
     ├── leet_jian_53.go // 剑指 Offer 53 - I. 在排序数组中查找数字 I
     ├── leet_jianzhi_03.go // 剑指 Offer 03. 数组中重复的数
+    ├── leet_jianzhi_04.go // 剑指 Offer 04. 二维数组中的查找
+    ├── leet_jianzhi_11.go // 剑指 Offer 11. 旋转数组的最小数字
     └── leet_jianzhi_53_v2.go // 剑指 Offer 53 - II. 0～n-1中缺失的数字
 
 doubly_linked_list 
@@ -26,7 +28,7 @@ linked_list
 
 
 queue
-    ├── leet_387.go // 字符串中的第一个唯一字符
+    ├── leet_387.go // 字符串中的第一个唯一字符 & 剑指 Offer 50. 第一个只出现一次的字符
     ├── leet_jianzhi_09.go 用两个栈实现队列
     └── leet_jianzhi_50.go // 剑指 Offer 50. 第一个只出现一次的字符
 sliding_window
