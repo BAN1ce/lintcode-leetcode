@@ -44,10 +44,14 @@ string
 
 tree
     ├── 94.go
-    ├── leet_101.go // 对称二叉树
+    ├── leet_101.go // 对称二叉树 （层次遍历）
     ├── leet_226.go // 翻转二叉树
     ├── leet_429.go // N叉树的层序遍历
     ├── leet_637.go // 二叉树的层平均值
+    ├── leet_jianzhi_26.go // 剑指 Offer 26. 树的子结构
+    ├── leet_jianzhi_27.go // 剑指 Offer 27. 二叉树的镜像
+    ├── leet_jianzhi_28.go // 剑指 Offer 28. 对称的二叉树 (使用递归)
+
     ├── leet_jianzhi_32_v1.go // 剑指 Offer 32 - I. 从上到下打印二叉树
     ├── leet_jianzhi_32_v3.go // 剑指 Offer 32 - III. 从上到下打印二叉树 III
     ├── lint_1744.go // 递增顺序查找树
