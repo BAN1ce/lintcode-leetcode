@@ -15,9 +15,12 @@ array
     ├── leet_jianzhi_11.go // 剑指 Offer 11. 旋转数组的最小数字
     └── leet_jianzhi_53_v2.go // 剑指 Offer 53 - II. 0～n-1中缺失的数字
 
-├── leet_jianzhi_10_v1.go // 剑指 Offer 10- I. 斐波那契数列
-├── leet_jianzhi_10_v2.go // 剑指 Offer 10- II. 青蛙跳台阶问题
-└── leet_jianzhi_63.go // 剑指 Offer 63. 股票的最大利润
+dp
+    ├── leet_jianzhi_10_v1.go // 剑指 Offer 10- I. 斐波那契数列
+    ├── leet_jianzhi_10_v2.go // 剑指 Offer 10- II. 青蛙跳台阶问题
+    └── leet_jianzhi_63.go // 剑指 Offer 63. 股票的最大利润
+    ├── leet_jianzhi_42.go // 剑指 Offer 42. 连续子数组的最大和
+
 
 
 doubly_linked_list 
