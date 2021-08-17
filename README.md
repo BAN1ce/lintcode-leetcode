@@ -20,6 +20,7 @@ dp
     ├── leet_jianzhi_10_v2.go // 剑指 Offer 10- II. 青蛙跳台阶问题
     └── leet_jianzhi_63.go // 剑指 Offer 63. 股票的最大利润
     ├── leet_jianzhi_42.go // 剑指 Offer 42. 连续子数组的最大和
+    ├── leet_jianzhi_46.go // 剑指 Offer 46. 把数字翻译成字符串
     ├── leet_jianzhi_47.go // 剑指 Offer 47. 礼物的最大价值
 
 
