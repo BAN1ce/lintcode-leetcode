@@ -31,6 +31,8 @@ doubly_linked_list
 linked_list
     ├── leet_83.go // 删除排序链表中的重复元素
     ├── leet_jianzhi_06.go // 从尾到头打印链表
+    ├── leet_jianzhi_18.go // 剑指 Offer 18. 删除链表的节点
+    ├── leet_jianzhi_22.go // 剑指 Offer 22. 链表中倒数第k个节点
     └── leet_jianzhi_24.go // 反转链表
     └── leet_jianzhi_35.go // 复杂链表的复
 
