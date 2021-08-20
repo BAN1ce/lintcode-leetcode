@@ -27,8 +27,11 @@ dp
 doubly_linked_list 
     ├── leet_146.go // LRU 缓存机制
     └── leet_1472.go // 设计浏览器历史记录
+    ├── leet_jianzhi_21.go // 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
     ├── leet_jianzhi_25.go 剑指 Offer 25. 合并两个排序的链表
     └── leet_jianzhi_52.go 剑指 Offer 52. 两个链表的第一个公共节点
+    ├── leet_jianzhi_57.go // 剑指 Offer 57. 和为s的两个数字
+    └── leet_jianzhi_58.go // 剑指 Offer 58 - I. 翻转单词顺序
 
     
 linked_list
