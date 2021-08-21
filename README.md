@@ -47,6 +47,10 @@ queue
     ├── leet_387.go // 字符串中的第一个唯一字符 & 剑指 Offer 50. 第一个只出现一次的字符
     ├── leet_jianzhi_09.go 用两个栈实现队列
     └── leet_jianzhi_50.go // 剑指 Offer 50. 第一个只出现一次的字符
+search
+    ├── leet_jianzhi_12.go // 剑指 Offer 12. 矩阵中的路径
+    └── leet_jianzhi_13.go // 剑指 Offer 13. 机器人的运动范围
+
 sliding_window
     ├── leet_1876.go // 长度为三且各字符不同的子字符串
     ├── leet_217.go // 存在重复元素
