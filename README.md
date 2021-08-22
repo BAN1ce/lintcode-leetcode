@@ -73,9 +73,10 @@ tree
     ├── leet_jianzhi_26.go // 剑指 Offer 26. 树的子结构
     ├── leet_jianzhi_27.go // 剑指 Offer 27. 二叉树的镜像
     ├── leet_jianzhi_28.go // 剑指 Offer 28. 对称的二叉树 (使用递归)
-
     ├── leet_jianzhi_32_v1.go // 剑指 Offer 32 - I. 从上到下打印二叉树
     ├── leet_jianzhi_32_v3.go // 剑指 Offer 32 - III. 从上到下打印二叉树 III
+    ├── leet_jianzhi_34.go // 剑指 Offer 34. 二叉树中和为某一值的路径
+    ├── leet_jianzhi_54.go // 剑指 Offer 54. 二叉搜索树的第k大节点
     ├── lint_1744.go // 递增顺序查找树
     ├── lint_1746.go // 二叉搜索树结点最小距离
     ├── lint_66.go // 二叉树前序遍历
