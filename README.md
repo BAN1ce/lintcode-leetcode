@@ -59,6 +59,8 @@ sliding_window
     └── leet_643.go // 子数组最大平均数 I
     ├── leet_718.go // 最长重复子数组
 sort
+    ├── leet_jianzhi_40.go // 剑指 Offer 40. 最小的k个数
+    ├── leet_jianzhi_41.go // 剑指 Offer 41. 数据流中的中位数
     ├── leet_jianzhi_45.go // 剑指 Offer 45. 把数组排成最小的数
     └── leet_jianzhi_61.go // 剑指 Offer 61. 扑克牌中的顺子
 
