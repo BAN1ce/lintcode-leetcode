@@ -83,6 +83,8 @@ tree
     ├── leet_jianzhi_32_v3.go // 剑指 Offer 32 - III. 从上到下打印二叉树 III
     ├── leet_jianzhi_34.go // 剑指 Offer 34. 二叉树中和为某一值的路径
     ├── leet_jianzhi_54.go // 剑指 Offer 54. 二叉搜索树的第k大节点
+    ├── leet_jianzhi_55.go // 剑指 Offer 55 - I. 二叉树的深度
+    ├── leet_jianzhi_55_v2.go // 剑指 Offer 55 - II. 平衡二叉树
     ├── lint_1744.go // 递增顺序查找树
     ├── lint_1746.go // 二叉搜索树结点最小距离
     ├── lint_66.go // 二叉树前序遍历
